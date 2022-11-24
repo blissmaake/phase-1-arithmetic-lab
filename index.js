@@ -9,4 +9,4 @@ let mod = num3 % num4;
 
 let max = Math.max(2, 9, 15, 20);
 
-let random = Math.floor(Math.random() * 10) + 2;
+let random = Math.floor(Math.random() * 10) + 1;
